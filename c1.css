@@ -1,0 +1,40 @@
+table, th, td{
+	border: 2px solid black;
+	border-collapse: collapse;
+	margin: 5px;
+	padding: auto;
+
+}
+
+
+div {
+
+	background-color: tomato;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.container div{
+	width:34%
+    float:left;
+}
+
+	
+.container {
+	width:100%;
+	overflow:auto;
+	background-color:cyan;
+	padding:10px
+}
+
+img{
+	width: 200px;
+	height: 200px;
+    float:auto;
+}
+box1{
+	background-color: dogderblue;
+}

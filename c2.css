@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    overflow: auto;
+    padding:0px;
+    margin: auto;
+    text-align: center;
+}
+
+.horiz{
+    width: 30%;
+    float: left;
+}
+
+button{
+background-color: rgb(110, 23, 37)
+}
+h1{
+    text-align:center;
+}
+
+.flex-container{
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
+.r-flex{
+    width: 30%;
+}
